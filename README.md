@@ -1,5 +1,5 @@
-![Фото 1]()
-![Фото 2]()
+![Фото 1](https://github.com/AntonGITHUBProjects/react-local-messenger/blob/b77415aaf86f0b0bed213a4bb65d528b74192788/public/media/images/localhost_3000_main_friends.png)
+![Фото 2](https://github.com/AntonGITHUBProjects/react-local-messenger/blob/b77415aaf86f0b0bed213a4bb65d528b74192788/public/media/images/localhost_3000_main_messages.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
