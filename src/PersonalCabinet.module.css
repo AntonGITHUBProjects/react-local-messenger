@@ -1,0 +1,5 @@
+.PersonalCabinet{
+    max-width:1920px;
+    margin:0 auto;
+    grid-template-columns: 1fr;
+}

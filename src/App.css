@@ -1,0 +1,19 @@
+.MainContent{
+  grid-template-columns:2fr 10fr;
+}
+ ul{
+  margin:0;
+  padding:0;
+}
+ul li{
+  list-style-type: none;
+}
+.display-grid{
+  display:grid;
+}
+.left{
+  float:left;
+}
+.right{
+  float:right;
+}

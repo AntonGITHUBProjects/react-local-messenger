@@ -1,0 +1,30 @@
+.Registration{
+    text-align:center;
+    margin:0 auto;
+    max-width:30rem;
+    background-color:#5974BD;
+    margin-top:10%;
+    border-radius:15px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    -ms-border-radius:15px;
+    -o-border-radius:15px;
+    color:white;
+}
+.Registration h3{
+    color:#B4CDF7;
+    padding-top:10px;
+}
+.Registration form input:last-of-type{
+    margin-top:5px;
+}
+.Links{
+    padding-top:5px;
+    padding-bottom: 10px;
+}
+.Links a{
+    outline: none;
+    color:white;
+    text-decoration: none;
+    padding-top:7px;
+}

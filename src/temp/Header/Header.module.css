@@ -1,0 +1,27 @@
+.Header{
+background-color: #5974BD;
+display:grid;
+grid-template-columns: 1fr 10fr 1fr;
+}
+.Header ul{
+    text-align: right;
+}
+.Header ul li{
+    display:inline;
+}
+.img{
+    width:3rem;
+    height:3rem;
+    border-radius:50%;
+    margin-top:0.75rem;
+    margin-left:1rem;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+}
+.imglink{
+    width:3rem;
+    height:3rem;
+    border-radius:50%;
+}

@@ -1,0 +1,24 @@
+.Sidebar{
+    background-color: #B4CDF7;
+}
+.Navbar{
+    padding-left:1rem;
+}
+.Navbar li{
+    padding-top:0.5rem;
+}
+.Navbar li:last-child{
+    padding-bottom:0.5rem;
+}
+.Navbar li a{
+    outline:none;
+text-decoration: none;
+list-style-type: none;
+color:#5079eb;
+}
+.Navbar li i{
+    margin-right:0.2rem;
+}
+.Navbar li a:hover{
+    color:#194ddd;
+}

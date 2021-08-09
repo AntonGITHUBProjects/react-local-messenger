@@ -1,0 +1,7 @@
+.Dialog{
+    background-color: #a5bbf8;
+    border:1px solid #5974BD;
+}
+.Dialog:hover{
+    border:2px solid #5974BD;
+}

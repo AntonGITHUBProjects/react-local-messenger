@@ -1,0 +1,13 @@
+.Friends{
+    text-align:center;
+}
+.friendList{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    border:5px solid #5974BD;
+    border-radius:2.5px;
+    margin-top:2rem;
+    margin-bottom:3rem;
+    margin-left:5rem;
+    margin-right:5rem;
+}

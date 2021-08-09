@@ -1,0 +1,16 @@
+.img{
+    width:3rem;
+    height:3rem;
+    border-radius:50%;
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    -ms-border-radius:50%;
+    -o-border-radius:50%;
+}
+.LoginName{
+    color:white;
+}
+.PersonalCabinet i {
+    font-size:25px;
+    color:#B4CDF7;
+}

@@ -1,0 +1,42 @@
+.Friends{
+    text-align:center;
+}
+.friendList{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    border:5px solid #5974BD;
+    border-radius:2.5px;
+    margin-top:1rem;
+    margin-bottom:3rem;
+    margin-left:5rem;
+    margin-right:5rem;
+    -webkit-border-radius:2.5px;
+    -moz-border-radius:2.5px;
+    -ms-border-radius:2.5px;
+    -o-border-radius:2.5px;
+}
+.FriendsSearch{
+    display:grid;
+    grid-template-columns: repeat(1fr);
+    border:1px solid #5974BD;
+}
+.SearchInput{
+    width:15rem;
+    height:1rem;
+    margin-left:0.2rem;
+}
+.SubmitForm{
+    height:1.4rem;
+    margin-left:0.2rem;
+    background-color: yellowgreen;
+    outline:none;
+    border:2px solid green ;
+    border-radius:1px;
+    -webkit-border-radius:1px;
+    -moz-border-radius:1px;
+    -ms-border-radius:1px;
+    -o-border-radius:1px;
+}
+.AddFriend{
+    background-color: #5974BD;
+}
